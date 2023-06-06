@@ -1,0 +1,8 @@
+Job title:
+class="CompactOpportunityCardsc__JobTitle-sc-dkg8my-7 jJvzUD"
+
+Company:
+class="CompactOpportunityCardsc__CompanyLink-sc-dkg8my-8 btWyBR"
+
+Location:
+class="CompactOpportunityCardsc__HierarchicalLocationSpan-sc-dkg8my-26 gWoWBv"
